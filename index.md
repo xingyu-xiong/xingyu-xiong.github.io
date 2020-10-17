@@ -1,6 +1,10 @@
 
 <center><img src="images/birthday.jpg" width="300" height="300"/></center>
 
+<center><img src="images/cake.jpg" width="300" height="300"/></center>
+
+### 闭上眼睛！现在！许三个愿望！！！
+
 <center><img src="images/flowerhands.gif" width="300" height="300"/></center>
 
 ### 该秀的才艺还是得秀的，成年的第一天送出一朵花！
