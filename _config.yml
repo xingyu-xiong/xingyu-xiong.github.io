@@ -1,20 +1,14 @@
-title: Chuchen (Leo) Xiong # your name (or website title) here
-logo: "/images/My Photo.png?raw=true" # your photo (or logo) here
+title: 18 岁啦！ # your name (or website title) here
+logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
   <p align="center">
-  UMN MSc in Business Analytics
+  
   <br>
-  Data Science | Storytelling | Visualization
+  
   <br>
   </p>
-  
-  
-  <a href="mailto:xion2022@umn.edu">Email</a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/chuchen-leo-xiong/">LinkedIn</a>
-  <br><br>
-  <a href="https://github.com/Xion6cc">Github</a> 
+ 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-167357228-1 # your Google Analytics tracking ID here
