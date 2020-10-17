@@ -1,8 +1,10 @@
-# 
+
 我觉得18岁是人生中最重要的时刻，想想我自己当时好像也没怎么过，但是真的很开心我能在你18岁的时候，我也想我能做什么让你觉得这天有意义而且值得纪念，不在一起真的很难受，不能和你一起在同一个时间和空间，一起做一件事情，我想了想，然后做了这个网站，我们可以一起打开，看到的是一样的，而且也不会消失，只用一个链接，就可以打开，虽然开起来没有很高大上很酷炫，也很理工直男，但是它一直都在呢！我们两都可以触及，而且随时可以看，是不是很方便。（自己给自己找理由还是不错的）
 
 
 不知不觉已经过了84天啦，时间过得好快，我还记得第一天遇到你，我还在扮演一个小孩，现在想想都觉得很搞笑，但是想想，我心里其实就挺小孩的，和你在一起待着，觉得自己就是真实的自己，和自然而然地很舒服，我觉得这就是最舒适的关系吧。
+
+<center><img src="images/day.jpg" width="600" height="300"/></center>
 
 一开始，我还挺惊讶的，会唱歌，会日语，还会画画，还时不时发一些照片撩人，怎么这么多才多艺，慢慢了解，我发现你还挺成熟，会考虑很多事情，而且也知道我在想什么，也会站在我的角度，我能真真切切地感受到那份喜欢，很真实很真诚很纯粹。
 
@@ -13,17 +15,4 @@
 
 
 
-# Project Portfolio
 
-## Data Science
-
-### Real Time Fraud Dectection using AWS
-*AWS S3, SageMaker, Kinesis, QuickSight, SNS*
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Fraud-Dectection-using-AWS) [![View on GitHub](https://img.shields.io/badge/Slides-View_the_Slides-green)](https://github.com/Xion6cc/Fraud-Dectection-using-AWS/blob/master/Trends%20Marketplace%20Team8%202019%20.pdf)
-
-Anomaly detection is a technique used to identify rare items, events, or observations which raise suspicion by differing significantly from most of the data you are analyzing. There are a wide range of applications in different industries including abnormal purchases in retail, cyber intrusions in banking, fraudulent claims in insurance, unusual machine behavior in manufacturing, and even detecting strange patterns in network traffic that could signal an intrusion. Leveraging a solution provided by [aws](https://s3.amazonaws.com/solutions-reference/fraud-detection-using-machine-learning/latest/fraud-detection-using-machine-learning.pdf), I developed an end-to-end anomaly detection workflow starting from data streaming to dashboarding. 
-
-<center><img src="images/AWS_Handout.jpg" width="600" height="300"/></center>
-
----
