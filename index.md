@@ -46,6 +46,10 @@
 <center><img src="images/niangaokaorou.jpg" width="700" height="200"/></center>
 <center><img src="images/jidanfanqie.png" width="700" height="200"/></center>
 
+<center><img src="images/niunaiguocha.jpg" width="700" height="200"/></center>
+<center><img src="images/tangnaicha.jpg" width="700" height="200"/></center>
+<center><img src="images/chayuanqi.jpg" width="700" height="200"/></center>
+
 
 秋天的晚上，在安静别墅的阳台搂着你坐着，听着你喜欢的WINNER，喝一点小酒，听着外面的雨声，我们都不说话，但是却很美好。
 
