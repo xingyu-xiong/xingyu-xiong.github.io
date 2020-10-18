@@ -39,7 +39,7 @@
 
 我们要去看the shy现场比赛，我们要去看WINNER的现场，去看看你喜欢的idol，你可要抱着我看了，不然我就现场吃醋。
 
-<center><img src="images/winner.jpg" width="300" height="300"/></center>
+<center><img src="images/winner.jpg" width="400" height="300"/></center>
 
 我们还要养猫猫，可爱的大胖猫，一起抱着它。
 
