@@ -3,13 +3,24 @@
 
 <center><img src="images/cake.jpg" width="300" height="300"/></center>
 
+## Part 1
+
+### 点蜡烛！
+
 ### 闭上眼睛！现在！许三个愿望！！！
+
+### 生日特权： 
+
+### 1. 一天都听你的，我的所有时间都是你的
+### 2. 无限表情包卡片，什么都可以做
 
 <center><img src="images/flowerhands.gif" width="300" height="300"/></center>
 
 ### 该秀的才艺还是得秀的，成年的第一天送出一朵花！
 
 ---
+
+## Part 2
 
 我觉得18岁是人生中最重要的时刻，想想我自己当时好像也没怎么过，但是真的很开心我能在你18岁的时候，我也想我能做什么让你觉得这天有意义而且值得纪念，不在一起真的很难受，不能和你一起在同一个时间和空间，一起做一件事情，我想了想，然后做了这个网站，我们可以一起打开，看到的是一样的，而且也不会消失，只用一个链接，就可以打开，虽然开起来没有很高大上很酷炫，也很理工直男，但是它一直都在呢！我们两都可以触及，而且随时可以看，是不是很方便。（自己给自己找理由还是不错的）
 
@@ -47,6 +58,10 @@
 
 ---
 
+## Part 3
+
+### 生日晚宴
+
 ### 我要和你把你喜欢的都吃一遍，喝一遍！
 
 <center><img src="images/mianbaopangxie.jpg" width="700" height="200"/></center>
@@ -58,6 +73,10 @@
 <center><img src="images/niunaiguocha.jpg" width="700" height="200"/></center>
 <center><img src="images/tangnaicha.jpg" width="700" height="200"/></center>
 <center><img src="images/chayuanqi.jpg" width="700" height="200"/></center>
+
+## Part 4
+
+### 闭上眼睛去感受
 
 **秋天的晚上，在安静别墅的阳台搂着你坐着，听着你喜欢的WINNER，喝一点小酒，听着外面的雨声，我们都不说话，但是却很美好。**
 
