@@ -86,6 +86,6 @@
 **生日快乐！我的宝贝！**
 
 
-[![点击](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Soccer-Analytics)
+[点击](https://github.com/Xion6cc/Soccer-Analytics)
 
 
