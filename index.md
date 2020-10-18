@@ -87,6 +87,4 @@
 生日快乐！我的宝贝
 
 
-[点击](https://github.com/xingyu-xiong/xingyu-xiong.github.io/blob/main/images/bqb1.png)
-
 
