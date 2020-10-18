@@ -40,6 +40,8 @@
 我们要去看the shy现场比赛，我们要去看WINNER 和宋闵浩的现场，去看看你喜欢的idol，你可要抱着我看了，不然我就现场吃醋。
 
 
+<center><img src="images/mianbaopangxie.jpg" width="700" height="300"/></center>
+
 
 秋天的晚上，在安静别墅的阳台搂着你坐着，听着你喜欢的WINNER，喝一点小酒，听着外面的雨声，我们都不说话，但是却很美好。
 
